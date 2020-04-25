@@ -1,0 +1,11 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl FireTruckII
+map_Kd FireTruckII.png
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+illum 1
+Tr 1.000000

@@ -8,7 +8,7 @@ PlayerSettings:
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
-  defaultScreenOrientation: 4
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -44,6 +44,9 @@ PlayerSettings:
   m_ShowUnitySplashAds: 0
   m_AdsAndroidGameId: 
   m_AdsIosGameId: 
+  m_ShowSplashAdsSlogan: 0
+  m_SloganImage: {fileID: 0}
+  m_SloganHeight: 150
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
@@ -164,8 +167,8 @@ PlayerSettings:
     Android: com.BackFlowLake.LearnEasyAR4
   buildNumber: {}
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 28
-  AndroidTargetSdkVersion: 28
+  AndroidMinSdkVersion: 26
+  AndroidTargetSdkVersion: 26
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1

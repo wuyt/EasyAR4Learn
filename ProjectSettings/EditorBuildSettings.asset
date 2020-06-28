@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/EasyAR4Learn/Scenes/VideoRecorder.unity
-    guid: d1a7f9b3e4e728c428ee2e1c6274c8df
+    path: Assets/MSSM/Scenes/Menu.unity
+    guid: 62781a7d37440f645a727124ba3f28e9
+  - enabled: 1
+    path: Assets/MSSM/Scenes/CreateMap.unity
+    guid: 31332238a8789824694eb8140244c483
+  - enabled: 1
+    path: Assets/MSSM/Scenes/LoadMaps.unity
+    guid: 9b5bd0216e7599d498a262c30f2a2541
   m_configObjects: {}

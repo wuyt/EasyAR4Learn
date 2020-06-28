@@ -1779,6 +1779,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SparseSpatialMap
       objectReference: {fileID: 0}
+    - target: {fileID: 1006805605649724, guid: 96cf873901cdf1048a37a20d931f6675, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4699342512893884, guid: 96cf873901cdf1048a37a20d931f6675, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1837,6 +1841,11 @@ PrefabInstance:
         type: 3}
       propertyPath: SourceType
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114030308909499210, guid: 96cf873901cdf1048a37a20d931f6675,
+        type: 3}
+      propertyPath: ActiveControl
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96cf873901cdf1048a37a20d931f6675, type: 3}
@@ -2446,6 +2455,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WorldRoot
       objectReference: {fileID: 0}
+    - target: {fileID: 1411133545417992, guid: c2a81dba06fdc19449b44d7533c5106c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4783076244365952, guid: c2a81dba06fdc19449b44d7533c5106c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2489,6 +2502,16 @@ PrefabInstance:
     - target: {fileID: 4783076244365952, guid: c2a81dba06fdc19449b44d7533c5106c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114961382245868814, guid: c2a81dba06fdc19449b44d7533c5106c,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114961382245868814, guid: c2a81dba06fdc19449b44d7533c5106c,
+        type: 3}
+      propertyPath: ActiveControl
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c2a81dba06fdc19449b44d7533c5106c, type: 3}

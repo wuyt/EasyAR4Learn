@@ -29,6 +29,15 @@ Unity2018.4、EasyAR4.0
 - Car-Cloloring3D：涂涂乐实现
 - FireTruckII：3D物体跟踪自定义3D物体
 
+2020年5月1日
+
 ----------
 
-2020年5月1日
+添加MSSM目录，演示如何同时加载多个稀疏空间地图
+
+场景在MSSM\Scenes目录下
+- Menu：菜单
+- CreateMap：创建地图
+- LoadMaps：加载多个地图
+
+2020年6月28日
